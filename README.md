@@ -4,7 +4,7 @@ Template for building and debuggin C++ files at Visual Studio Code
 
 ***
 
-## Requiremente
+## Requirements
 
 You need *git*, *make* and the compiler *gpp* installed.
 
