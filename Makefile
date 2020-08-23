@@ -1,4 +1,4 @@
-# Executavel
+# Executable
 BINFOLDER := bin/
 # .hpp
 INCFOLDER := inc/
