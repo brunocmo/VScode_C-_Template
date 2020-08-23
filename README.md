@@ -1,6 +1,6 @@
 # Visual Studio Code C++ Template
 
-Template for building and debuggin C++ files at Visual Studio Code
+Template for building and debugging C++ files at Visual Studio Code
 
 ***
 
